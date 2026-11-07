@@ -11,7 +11,19 @@ Symfony – Connected by Symphonies est un projet web construit avec le framewor
 
     “bandit” n’est qu’un surnom affectueux pour désigner ceux qui vivent pour la musique
 
-    les utilisateurs sont connectés entre eux par leurs téléphones portables, comme un orchestre numérique
+    les utilisateurs sont connectés entre eux par leurs téléphones portables, comme un orchestre numérique ou un réseau social
+    
+- en mode communauté ou réseau social simple des gens peuvent faire des présentations ou podcasts sur la musique
+- 
+- en mode musique il y a des ornementations, etc
+- 
+   en mode artisans tu fais des music video
+  
+
+
+
+
+
 
     chaque interaction, chaque message, chaque requête HTTP devient une note dans une grande symphonie collective
 
