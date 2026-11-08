@@ -21,7 +21,7 @@ Symfony – Connected by Symphonies est un projet web construit avec le framewor
 - 
    en mode artisans tu fais des music video/ code html /php
 
-  - clean bandit est quand tu fais des videos pop à diffuser
+  - clean bandit est quand tu fais des videos pop à diffuser , tu tiens un compte de reseaux sociaux avec des images en lien avec les video de musique, comme un(e) idole
   
 
 
