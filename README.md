@@ -13,15 +13,15 @@ Symfony – Connected by Symphonies est un projet web construit avec le framewor
 
     les utilisateurs sont connectés entre eux par leurs téléphones portables, comme un orchestre numérique ou un réseau social
     
-- en mode communauté ou réseau social simple des gens peuvent faire des présentations ou podcasts sur la musique classique
+- en mode communauté ou réseau social simple des gens peuvent faire des présentations ou podcasts sur la musique classique, les symphonies, la musiqu een general
 - 
-- en mode musique il y a des ornementations, etc , tu montres comme si il n'y a que la notation musicale où tu peux faire des ornements, etc.
+- en mode musique il y a des ornementations, etc , tu montres comme si il n'y a que la notation musicale où tu peux faire des ornements, etc. tu imagines l'ambaince dans n'importe quel pays ets pareil avec des noms différents, 
   
 - 
 - 
-   en mode artisans tu fais des music video
+   en mode artisans tu fais des music video/ code html /php
 
-  - clean bandit est quand tu fais des videos pop, 
+  - clean bandit est quand tu fais des videos pop à diffuser
   
 
 
