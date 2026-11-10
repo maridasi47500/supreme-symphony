@@ -24,7 +24,7 @@ Symfony – Connected by Symphonies est un projet web construit avec le framewor
   - clean bandit est quand tu fais des videos pop à diffuser , tu tiens un compte de reseaux sociaux avec des images en lien avec les video de musique, comme un(e) idole
 
   - from dusk till dawn Symfony : I have been hearing symphonies à rhapsody for you and me, tout ce qu'on sait des gens est qu'ils ont entendu des symphonies. leur projet from dusk till dawn : chercher à se rendre utile pour la communauté : how to follo people carrier path after graduation ? how to feed homeless ? how to fulfill dreams I dying children ? during the whole night or the whole day
-  - awful mode the contrary or jack 4 good , 
+  - awful mode the contrary of hack 4 good , tu dois t'occuper de ton véhicule 
 
 
 
